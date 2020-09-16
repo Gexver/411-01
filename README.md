@@ -1,7 +1,5 @@
 ### "411-01"
-## Real Problem -
+## Real Problem
+## Product:
 
-Product: SOFTWARE for
-
-Analysis of Server Event Logs
-using Pandas DataFrame
+SOFTWARE for Analysis of Server Event Logs using Pandas DataFrame
