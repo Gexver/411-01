@@ -1,1 +1,6 @@
-# Telecommunications-Software-RAE411-
+# Real Problem
+
+Product: SOFTWARE for
+
+Analysis of Server Event Logs
+using Pandas DataFrame
